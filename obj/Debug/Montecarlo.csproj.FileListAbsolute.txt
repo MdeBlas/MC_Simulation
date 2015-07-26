@@ -1,0 +1,12 @@
+c:\users\deblmi\documents\visual studio 2013\Projects\Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe.config
+c:\users\deblmi\documents\visual studio 2013\Projects\Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe
+c:\users\deblmi\documents\visual studio 2013\Projects\Montecarlo\Montecarlo\bin\Debug\Montecarlo.pdb
+c:\users\deblmi\documents\visual studio 2013\Projects\Montecarlo\Montecarlo\obj\Debug\Montecarlo.csprojResolveAssemblyReference.cache
+c:\users\deblmi\documents\visual studio 2013\Projects\Montecarlo\Montecarlo\obj\Debug\Montecarlo.exe
+c:\users\deblmi\documents\visual studio 2013\Projects\Montecarlo\Montecarlo\obj\Debug\Montecarlo.pdb
+C:\Users\Miguel\Desktop\Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe.config
+C:\Users\Miguel\Desktop\Montecarlo\Montecarlo\obj\Debug\Montecarlo.exe
+C:\Users\Miguel\Desktop\Montecarlo\Montecarlo\obj\Debug\Montecarlo.pdb
+C:\Users\Miguel\Desktop\Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe
+C:\Users\Miguel\Desktop\Montecarlo\Montecarlo\bin\Debug\Montecarlo.pdb
+C:\Users\Miguel\Desktop\Montecarlo\Montecarlo\obj\Debug\Montecarlo.csprojResolveAssemblyReference.cache
