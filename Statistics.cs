@@ -1,4 +1,4 @@
-﻿using System;
+sing System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +11,7 @@ namespace Montecarlo
         double[] SimPrices;
         double[] runningavg;
         int counter;
+        double sum;
         double mean;
 
         public Statistics(int Nsims)
@@ -19,22 +20,16 @@ namespace Montecarlo
             runningavg = new double[Nsims];
             counter = 0;
             mean = 0;
+            sum = 0;
         }
         public void add(double newPrice)
         {
+            sum = sum + newPrice;
             SimPrices[counter] = newPrice;
-            if (counter>0)
-            {
-                runningavg[counter] = 0.5 * (runningavg[counter - 1] + newPrice);
-                mean = 0.5 * (runningavg[counter - 1] + newPrice);
-            }
-            else
-            {
-                runningavg[counter] = newPrice;
-                mean = newPrice;
-            }
-            
+                      
             counter++;
+            mean = sum / counter;
+            runningavg[counter-1] = mean;
         }
       
         public double StndError()
